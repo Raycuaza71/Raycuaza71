@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning jpw amutjomg wprls om general
 - 💬 Ask me about stuff if you want to
 - ⚡ Fun fact: You can't spell success without succ
 
