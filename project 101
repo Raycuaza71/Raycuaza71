@@ -1,3 +1,0 @@
-start
-  if X == 1
-    ln "Yes"
